@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/about.jpg",
+  "image2": "/img/03.webp",
+  "exp": {
+    "nmb": 5,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "Empowering Innovation, ", "second": "Transforming Ideas." },
+  "content": {
+    "first": "At The Dark Light, we deliver cutting-edge solutions in Tech & AI, Digital Marketing, E-Commerce, Branding, Design, Web Development, and Mobile Apps.",
+    "second": " Our mission is to turn your vision into reality with precision, creativity, and expertise."
+  },
+  "smallTitle": "About Us"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "ion-ios-monitor",
+        "title": "UI/UX & Brand Identity",
+        "content": "Crafting sleek, modern, and intuitive digital experiences that engage and convert."
+    },
+    {
+        "id": 2,
+        "icon": "ion-ios-bolt",
+        "title": "Mobile App Development",
+        "content": "High-performance native & hybrid apps designed for seamless user experiences."
+    },
+    {
+        "id": 3,
+        "icon": "ion-cube",
+        "title": "Web Development & Design",
+        "content": "Pixel-perfect, high-speed, and fully responsive websites for all platforms."
+    },
+    {
+        "id": 4,
+        "icon": "ion-ios-color-wand",
+        "title": "Tech & AI Solutions",
+        "content": "Custom software, AI automation, and cloud-based innovations for future-ready businesses."
+    },
+    {
+        "id": 5,
+        "icon": "ion-ios-cart",
+        "title": "E-Commerce Solutions",
+        "content": "Scalable, secure, and conversion-driven online stores with seamless user experiences."
+    },
+    {
+        "id": 6,
+        "icon": "ion-ios-monitor",
+        "title": "Social Media & Digital Marketing",
+        "content": "SEO, PPC & viral content strategies to maximize brand visibility and engagement."
+    }
+]

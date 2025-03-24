@@ -1,0 +1,5 @@
+{
+  "/(dark)/blogs/page": "app/(dark)/blogs/page.js",
+  "/(dark)/blog/blog-dark/page": "app/(dark)/blog/blog-dark/page.js",
+  "/(dark)/blogs/blog-detils/page": "app/(dark)/blogs/blog-detils/page.js"
+}
