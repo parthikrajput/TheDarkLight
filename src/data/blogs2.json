@@ -4,14 +4,48 @@
     "title": "The Art of Graphic Design: Trends, Tools, and Best Practices",
     "content": "Graphic design is an ever-evolving field that blends creativity with technology to communicate ideas visually. Whether you’re a seasoned designer or just starting, staying updated with the latest trends and best practices is essential to producing stunning and effective designs. This blog will explore the latest trends, necessary tools, expert tips, and SEO strategies to enhance your graphic design skills.",
     "image": "/img/blog/l1.jpg",
+    "img": "/img/blog/l1.jpg",
     "tags": [
-      "WordPress",
-      "Themeforest",
-      "Vie"
+      "Graphic Design"
     ],
     "date": {
       "day": "07",
-      "month": "August"
+      "month": "Feb"
+    },
+    "contents": [
+      {
+        "paragraph": "Graphic design is an ever-evolving field that blends creativity with technology to communicate ideas visually."
+      },
+      {
+        "subheading": "- Trends in Graphic Design"
+      },
+      {
+        "list": [
+          "Minimalism and flat design",
+          "Use of bold typography",
+          "AI-assisted design tools",
+          "Dark mode UI"
+        ]
+      },
+      {
+        "quote": "Design is intelligence made visible. – Alina Wheeler"
+      },
+      {
+        "images": [
+          "/img/blog/l1.jpg",
+          "/img/blog/l2.jpg"
+        ]
+      }
+    ],
+    "author": {
+      "name": "Jorden Griffin",
+      "bio": "A passionate designer sharing insights on modern design trends.",
+      "image": "/img/blog/01.jpg",
+      "social": [
+        "facebook-f",
+        "twitter",
+        "behance"
+      ]
     }
   },
   {
@@ -19,12 +53,49 @@
     "title": "The Future of Mobile App Development: Trends to Watch in 2025",
     "content": "As smartphones become more powerful and user expectations continue to rise, mobile app development is undergoing a transformative shift. Developers must stay updated with emerging trends to create innovative, user-friendly, and high-performing apps.",
     "image": "/img/blog/l2.jpg",
+    "img": "/img/blog/l2.jpg",
     "tags": [
-      "WordPress"
+      "Mobile App Development"
     ],
     "date": {
-      "day": "07",
-      "month": "August"
+      "day": "05",
+      "month": "Jan"
+    },
+    "contents": [
+      {
+        "paragraph": "Graphic design is an ever-evolving field that blends creativity with technology to communicate ideas visually."
+      },
+      {
+        "subheading": "- Trends in Graphic Design"
+      },
+      {
+        "list": [
+          "Minimalism and flat design",
+          "Use of bold typography",
+          "AI-assisted design tools",
+          "Dark mode UI"
+        ]
+      },
+      {
+        "quote": "Design is intelligence made visible. – Alina Wheeler"
+      },
+      {
+        "images": [
+          "/img/blog/l1.jpg",
+          "/img/blog/l2.jpg"
+        ]
+      }
+    ],
+    "author": {
+      "name": "Jorden Griffin",
+      "bio": "A passionate designer sharing insights on modern design trends.",
+      "image": "/img/blog/01.jpg",
+      "img": "/img/blog/01.jpg",
+      "social": [
+        "facebook-f",
+        "twitter",
+        "behance"
+      ]
     }
   },
   {
@@ -32,14 +103,48 @@
     "title": "How AI is Revolutionizing 3D Animation and Video Production",
     "content": "The world of 3D animation and video production is transforming rapidly with AI advancements. From automating complex tasks to enhancing realism, AI is redefining digital content creation.",
     "image": "/img/blog/l3.jpg",
+    "img": "/img/blog/l3.jpg",
     "tags": [
-      "WordPress",
-      "Themeforest",
-      "Vie"
+      "3D Animation & Video Content"
     ],
     "date": {
-      "day": "07",
-      "month": "August"
+      "day": "02",
+      "month": "Sep"
+    },
+    "contents": [
+      {
+        "paragraph": "Graphic design is an ever-evolving field that blends creativity with technology to communicate ideas visually."
+      },
+      {
+        "subheading": "- Trends in Graphic Design"
+      },
+      {
+        "list": [
+          "Minimalism and flat design",
+          "Use of bold typography",
+          "AI-assisted design tools",
+          "Dark mode UI"
+        ]
+      },
+      {
+        "quote": "Design is intelligence made visible. – Alina Wheeler"
+      },
+      {
+        "images": [
+          "/img/blog/l1.jpg",
+          "/img/blog/l2.jpg"
+        ]
+      }
+    ],
+    "author": {
+      "name": "Jorden Griffin",
+      "bio": "A passionate designer sharing insights on modern design trends.",
+      "image": "/img/blog/01.jpg",
+      "social": [
+        "facebook-f",
+        "twitter",
+        "behance"
+      ]
     }
   }
 ]
